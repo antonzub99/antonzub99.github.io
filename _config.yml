@@ -81,17 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Bio"
-  avatar           : "profile.png"
+  avatar           : "me2.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Saarbrücken, Germany"
-  #employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "azubekhi@mpi-inf.mpg.de"
   github           : "antonzub99"
-  LinkedIn         : "placeholder"
+  LinkedIn         : "https://www.linkedin.com/in/anton-zubekhin-791550212"
   #orcid            : "http://orcid.org/yourorcidurl"
-  twitter          : "https://twitter.com/antonzub48386"
+  twitter          : "antonzub48386"
 
 
 # Reading Files
